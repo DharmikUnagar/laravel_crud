@@ -1,4 +1,4 @@
 
 ## Project Defination
 
-Use for employees salary management
+Use for admin login and crud operation
